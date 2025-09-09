@@ -22,7 +22,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.1.4",
     "@cloudflare/vite-plugin": "1.11.4",
-    "@cloudflare/vitest-pool-workers": "^0.8.63",
+    "@cloudflare/vitest-pool-workers": "^0.8.71",
     "@cloudflare/workers-types": "^4.20250813.0",
     "@tailwindcss/vite": "^4.1.11",
     "@types/node": "^24.2.1",
@@ -32,7 +32,7 @@
     "prettier": "^3.6.2",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.9.2",
-    "vite": "^7.1.2",
+    "vite": "^7.1.5",
     "vitest": "3.2.4",
     "wrangler": "^4.29.1"
   },
